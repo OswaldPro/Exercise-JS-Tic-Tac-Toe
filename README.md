@@ -28,8 +28,7 @@ Ce projet est une implémentation simple du jeu du Morpion (Tic-Tac-Toe) en Java
 
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/votre-repo/jeu-morpion.git
-   ```
+   git clone https://github.com/OswaldPro/Exercise-JS-Tic-Tac-Toe.git
 2. Ouvrir le fichier `index.html` dans un navigateur.
 
 ## Contributions
